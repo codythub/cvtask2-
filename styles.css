@@ -1,0 +1,180 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.cert-head {
+    background-color: #D1D1D1;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 6px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.cert-body {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+strong, pre, p, h3, li, h4 {
+    color: white;
+
+}
+
+.edu-head {
+    background-color: #D1D1D1;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 6px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.edu-body {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.work-history {
+    background-color: #D1D1D1;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 6px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.container {
+    background-color: #D1D1D1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+   
+    
+}
+
+.work-body {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 10px;    
+}
+
+.container2 {
+    background-color: #D1D1D1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.work-body2 {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container3 {
+    background-color: #D1D1D1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.work-body3 {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+}
+
+.referees {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+h3, h1, h2 {
+    text-align: center;
+}
+
+.info {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px
+}
+
+.overview-container {
+    background-color: #D1D1D1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.overview-body {
+    background-color: #021032;
+    padding: 0.8em;
+    border-radius: 5px;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.left {
+        
+    max-width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #021032;
+    margin-bottom: 20px
+}
+
+.right {
+    float: left;
+}
+
+.name {
+    margin: auto;
+    border: solid #021032;
+    max-width: 700px;
+}
